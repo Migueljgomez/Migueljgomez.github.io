@@ -22,7 +22,7 @@ body {
     padding: 20px 30px 40px 30px;
     background-color: rgb(223, 211, 211);
     overflow: auto;
-    width: 130%;
+    width: 100%;
     
     border-radius: 1px;
     align-self: center;
